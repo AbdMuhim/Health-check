@@ -1,3 +1,3 @@
 print("hello github")
 a=int(input())
-print(a+a*2)
+print(a+a)
