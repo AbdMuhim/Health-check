@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-  scanf("How are you");
+  printf("How are you");
 }
